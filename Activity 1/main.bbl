@@ -1,0 +1,121 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{halliday2021fundamentals}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=9d9a6552821ea504ab1a5c767dddff92}{%
+           family={Halliday},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8967f5a0664f741b0ef2530a47e698fa}{%
+           family={Resnick},
+           familyi={R\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=aa8304879d8f7d99c7c4570759b948e2}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Jearl},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{f6f98a542bf7cb3b8c4a7c380ec744f2}
+      \strng{fullhash}{3978689396696961b0bd612b55ccf075}
+      \strng{fullhashraw}{3978689396696961b0bd612b55ccf075}
+      \strng{bibnamehash}{3978689396696961b0bd612b55ccf075}
+      \strng{authorbibnamehash}{3978689396696961b0bd612b55ccf075}
+      \strng{authornamehash}{f6f98a542bf7cb3b8c4a7c380ec744f2}
+      \strng{authorfullhash}{3978689396696961b0bd612b55ccf075}
+      \strng{authorfullhashraw}{3978689396696961b0bd612b55ccf075}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{11}
+      \field{title}{Fundamentals of Physics}
+      \field{year}{2021}
+    \endentry
+    \entry{knight2017physics}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=2b95e9fdbdc8ce5d370783cf68a864d8}{%
+           family={Knight},
+           familyi={K\bibinitperiod},
+           given={Randall\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{2b95e9fdbdc8ce5d370783cf68a864d8}
+      \strng{fullhash}{2b95e9fdbdc8ce5d370783cf68a864d8}
+      \strng{fullhashraw}{2b95e9fdbdc8ce5d370783cf68a864d8}
+      \strng{bibnamehash}{2b95e9fdbdc8ce5d370783cf68a864d8}
+      \strng{authorbibnamehash}{2b95e9fdbdc8ce5d370783cf68a864d8}
+      \strng{authornamehash}{2b95e9fdbdc8ce5d370783cf68a864d8}
+      \strng{authorfullhash}{2b95e9fdbdc8ce5d370783cf68a864d8}
+      \strng{authorfullhashraw}{2b95e9fdbdc8ce5d370783cf68a864d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Physics for Scientists and Engineers: A Strategic Approach}
+      \field{year}{2017}
+    \endentry
+    \entry{young2020university}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=cdcb55db9d535bec955f5911f1ac4e59}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Hugh\bibnamedelima D.},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=073003dafd6f7a0d40236b25403e4573}{%
+           family={Freedman},
+           familyi={F\bibinitperiod},
+           given={Roger\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{f41741dd065bae8cbcbaeee29424c299}
+      \strng{fullhash}{f41741dd065bae8cbcbaeee29424c299}
+      \strng{fullhashraw}{f41741dd065bae8cbcbaeee29424c299}
+      \strng{bibnamehash}{f41741dd065bae8cbcbaeee29424c299}
+      \strng{authorbibnamehash}{f41741dd065bae8cbcbaeee29424c299}
+      \strng{authornamehash}{f41741dd065bae8cbcbaeee29424c299}
+      \strng{authorfullhash}{f41741dd065bae8cbcbaeee29424c299}
+      \strng{authorfullhashraw}{f41741dd065bae8cbcbaeee29424c299}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{15}
+      \field{title}{University Physics with Modern Physics}
+      \field{year}{2020}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
