@@ -3,6 +3,8 @@
 \usepackage{amsmath, amssymb}
 \usepackage{hyperref}
 \usepackage{tikz}
+\usepackage{float}  
+\usepackage{placeins}
 \usepackage[backend=biber, style=numeric, citestyle=ieee]{biblatex}
 
 \addbibresource{references.bib}
@@ -13,18 +15,20 @@
 John Paul Memoracion \\ 
 Nikki Shane Mercado \\
 Gian Myrl Renomeron}
-\date{February 6, 2025}
+\date{February 20, 2025}
 
 \begin{document}
 
 \maketitle
 
 \begin{abstract}
-
+    This experiment delves into the concept of centripetal force and its function to maintain circular motion. A spinning cork attached to a hanging mass was used to study motion with the correlation of mass, velocity, radius, and centripetal force. Theoretical calculations were obtained from cork measurements using Newton's second law of motion. The percentage difference between these values was compared to determine the accuracy of the experiment. External forces and human error were taken into account. The results give one an understanding of the concepts involved in circular motion and what conditions are necessary to achieve uniform rotation.
 \end{abstract}
 
 \section{Introduction}
+Centripetal force is the force that positions the object's motion in circular manner, always centripetally directed into the circle's center. It does not alter the object's speed but modifies its direction, causing centripetal acceleration.\cite{LucasGhose2024} The acceleration is provided by \(a = v² / r \), where v represents constant speed and r represents the radius of the circular path. Based on Newton's second law of motion, centripetal force is given by F = ma, or alternatively, \( F = mv² / r\) for an object traveling at constant speed in a circular motion.\cite{CentripetalForce}\\
 
+This experiment is set to explore the relationship between centripetal force and the radius of the circular path. By changing the radius and taking the time for a fixed number of revolutions, the centripetal force can be derived and studied. A cork system is employed, in which the force is counterbalanced by a hanging mass. The system also supports adjusting the radius and noting down the resulting changes to keep the mass at a position of equilibrium. The aim is to verify experimentally the centripetal force, mass, velocity, and radius relationship, and also compare the result from experiments to the predictions obtained from theory.
 \section{Materials and Methodology}
 
 
@@ -62,7 +66,7 @@ The goal of this experiment is to determine the centripetal force acting on a ro
 
 
 \section{Results and Discussion}
-Below is the data and result of the experiments. The weighted hanger was used as the force. Marbles were used to increase the weight of the hanger. In Experiment 1, 10 marbles were used in the first trial, 11 were used in the second trial, and 12 were used in the third trial. In Experiment 2, the marbles used in the weighted hanger were constant (10 marbles). The mass was of the truck was increased using marbles and batteries. Each battery weighted 25g and each marble weighted 5g.
+Below is the data and result of the experiments. The small mass is 0.05 kg. The theoretical value used is 0.49 \textbf{N}, which was calculated using mass times gravity.
 
 \subsection{Experiment 1: Mass constant, Force varies}
 \begin{table}[h]
@@ -73,9 +77,9 @@ Below is the data and result of the experiments. The weighted hanger was used as
             \hline
             \textbf{Trial} & \textbf{m (kg)} & \textbf{r (m)} & \textbf{Period (s)} & \textbf{$v$ (m/s)} & \textbf{$v^2$ (m/s)} & \textbf{F (N)} \\
             \hline
-            1 & 0.033 kg & 0.49 N & 0.32 s & 0.71 m & 14.8 m/s\(^2\) & 13.87 m/s\(^2\) \\
-            2 & 0.033 kg & 0.539 N & 0.29 s & 0.71 m & 16.3 m/s\(^2\) & 16.88 m/s\(^2\) \\
-            3 & 0.033 kg & 0.588 N & 0.27 s & 0.71 m & 17.8 m/s\(^2\) & 19.47 m/s\(^2\) \\
+            1 & 0.05 kg & 0.15 m & 0.65 s & 1.45 m/s & 2.10 m/s & 0.7 N \\
+            2 & 0.05 kg & 0.20 m & 0.77 s & 1.61 m/s & 2.6 m/s & 0.65 N \\
+            3 & 0.05 kg & 0.30 m & 0.9 s & 2.09 m/s & 4.39 m/s & 0.73 N \\
             \hline
         \end{tabular}
     }
@@ -83,13 +87,21 @@ Below is the data and result of the experiments. The weighted hanger was used as
     \label{table:exp}
 \end{table}
 
-As one can see in table \ref{table:exp} for the first experiment, constant mass of cart with varying forces were applied on the cart and their acceleration in theory and actual measurement are very clear. From these values acceleration due to increased force is obtained and it does agree with the second law formulated by Newtons as \( F = ma \), with a constant value of mass in that case it will be more or less proportionate to an acceleration. \\
+As one can see in table \ref{table:exp}, constant small mass with varying radius produced varying period and velocity. From these values, period increased as the radius increased. The total time for each trials are 16.25, 19.25 and 22.5, respectively. These values are rounded up to the nearest hundredth. The average centripetal force (experimental values) is 0.69. The Percent difference (percent diff between the experimental (Fexp) and theoretical (F) centripetal force) is calculated using this formula (See Figure \ref{fig:percent}):
 
-Experimental acceleration values are quite close to the theoretical one, despite some slight differences. These can be caused by the friction from the surface and air friction around the test body, errors in measurement or reaction time to start and stop the stopwatch. Despite such minute differences, the trend clearly shows that acceleration increases with force, as expected by the theory.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{percentage.png}
+    \caption{Percentage Formula}
+    \label{fig:percent}
+\end{figure}
+
+The calculated percentage is \textit{33.89 \%}. If the percent difference is greater than 10\%, it means that it indicates a bad agreement. The difference can be attributed to measurement errors, timing errors, or outside influences such as friction and air resistance. Human reaction time when employing a stopwatch can influence period measurements, whereas minor errors in radius or mass affect velocity and force calculations. Furthermore, theoretical presuppositions, including uniform circular motion, cannot reflect the actual circumstances as variations in velocity or an oblique string introduce inaccuracies. Calibration and deviations in holding steady motion further play a part in the difference. These circumstances call for accuracy in measurements and conditions to prevent errors.
 
 \section{Conclusion}
 
-The experiment was successful in testing the Newton's Second Law of Motion. The investigation found that constant mass allows an increase in force resulting in increased acceleration. An increase in mass with constant force leads to reduced acceleration. Following the expected trends as determined by the equation: \( F = ma \), which also corresponds directly to the relationships between force, mass, and acceleration.
+This experiment enabled us to learn the relationship between radius and velocity for centripetal force and the verification of Newton's Second Law of Motion. When we used a larger radius, we could see that period increased as well, and hence velocity and also the force applied to maintain the object in a circular motion got affected. Our results were indeed as expected, but our experimental values didn't match perfectly with the theoretical values. These might be caused by minute errors in the measurement of radius and time, delays in reaction time while using the stopwatch, or even external forces such as friction and air resistance. Despite these difficulties, the experiment served to reinforce the basic relationships among force, mass, and acceleration, demonstrating for us the significance of accurate measurements and controlled conditions in actual physics experiments.
+
 
 \printbibliography
 

@@ -16,5 +16,60 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{LucasGhose2024}{online}{}{}
+      \name{author}{2}{}{%
+        {{hash=c787f2f1c547a5c83faefd3f0c7dca0f}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=57a8786f7e52b1607e0273e2de0676b5}{%
+           family={Ghose},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{ef5a520538ca693ade9dc4b2f4bc78ed}
+      \strng{fullhash}{ef5a520538ca693ade9dc4b2f4bc78ed}
+      \strng{fullhashraw}{ef5a520538ca693ade9dc4b2f4bc78ed}
+      \strng{bibnamehash}{ef5a520538ca693ade9dc4b2f4bc78ed}
+      \strng{authorbibnamehash}{ef5a520538ca693ade9dc4b2f4bc78ed}
+      \strng{authornamehash}{ef5a520538ca693ade9dc4b2f4bc78ed}
+      \strng{authorfullhash}{ef5a520538ca693ade9dc4b2f4bc78ed}
+      \strng{authorfullhashraw}{ef5a520538ca693ade9dc4b2f4bc78ed}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{note}{Accessed: March 2, 2025}
+      \field{title}{What are centrifugal and centripetal forces?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.livescience.com/52488-centrifugal-centripetal-forces.html
+      \endverb
+      \verb{url}
+      \verb https://www.livescience.com/52488-centrifugal-centripetal-forces.html
+      \endverb
+    \endentry
+    \entry{CentripetalForce}{misc}{}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: March 2, 2025}
+      \field{title}{Centripetal Force | Physics}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://courses.lumenlearning.com/suny-physics/chapter/6-3-centripetal-force/
+      \endverb
+      \verb{url}
+      \verb https://courses.lumenlearning.com/suny-physics/chapter/6-3-centripetal-force/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
