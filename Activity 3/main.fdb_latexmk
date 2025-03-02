@@ -1,12 +1,11 @@
 # Fdb version 4
-["biber main"] 1738471094.5975 "main.bcf" "main.bbl" "main" 1738909217.25359 0
-  "main.bcf" 1738909216 108109 612b389faf509a127a410046a569d002 "pdflatex"
-  "references.bib" 1738470882 645 11e74f865c54d063327e166eacfffd3d ""
+["biber main"] 1738909683.70333 "main.bcf" "main.bbl" "main" 1738909727.41849 0
+  "main.bcf" 1738909726 107884 f903b1398a9fea2d4313a56cafe87c1e "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1738909215.35695 "c:/Users/macer/OneDrive/Desktop/UP (but better)/Physics 71.1/Technical-Paper/Activity 1/main.tex" "main.pdf" "main" 1738909217.25438 0
+["pdflatex"] 1738909725.26229 "c:/Users/macer/OneDrive/Desktop/UP (but better)/Physics 71.1/Technical-Paper/Activity 3/main.tex" "main.pdf" "main" 1738909727.41915 0
   "C:/Users/macer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1737609397 187664 65fa417f6850b604c49bfafe76826e39 ""
   "C:/Users/macer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1725793407 14064 a10d396517d89400090e226b0b704a64 ""
   "C:/Users/macer/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1725793393 24265373 99c708107fdf4c9b8365e0291b9e3935 ""
@@ -31,15 +30,12 @@
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
-  "C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
-  "C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
-  "C:/Users/macer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
@@ -170,12 +166,13 @@
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/macer/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/macer/OneDrive/Desktop/UP (but better)/Physics 71.1/Technical-Paper/Activity 1/main.tex" 1738909214 11236 c5390dfe9465d95c77b0e7a5252426fd ""
-  "main.aux" 1738909216 2970 66c62ea40be11a721f353c9e62444dd9 "pdflatex"
-  "main.bbl" 1738471097 4664 331f85feacd26a8f969c365c1ad1451f "biber main"
-  "main.out" 1738909216 1414 54f8f604be3928873a0c9049f605b1e0 "pdflatex"
-  "main.run.xml" 1738909216 2338 b0ea2a4ce99d0b03a8aebc8f52bf8b37 "pdflatex"
-  "main.tex" 1738909214 11236 c5390dfe9465d95c77b0e7a5252426fd ""
+  "c:/Users/macer/OneDrive/Desktop/UP (but better)/Physics 71.1/Technical-Paper/Activity 3/main.tex" 1738909724 4807 c4e96e1085ef31673142606dff86dc93 ""
+  "experiment_setup.png" 1738908149 36978 58bec0fbf5a229ab6e4d86d6afa5aef2 ""
+  "main.aux" 1738909726 1601 0597e83488313f1d5f31304b2b93df6a "pdflatex"
+  "main.bbl" 1738909686 486 76d65a242ec496c9b4361af646ff12cb "biber main"
+  "main.out" 1738909726 1020 9ff8189c32cd48ec27c3e1faf8c334da "pdflatex"
+  "main.run.xml" 1738909726 2338 b0ea2a4ce99d0b03a8aebc8f52bf8b37 "pdflatex"
+  "main.tex" 1738909724 4807 c4e96e1085ef31673142606dff86dc93 ""
   (generated)
   "main.aux"
   "main.bcf"
